@@ -1,3 +1,18 @@
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: orange;
+   color: white;
+   text-align: center;
+}
+
+
+ 
+
+
 *{
     margin: 0;
     padding: 0;
@@ -127,7 +142,7 @@ ul li a:hover{
     width: 1200px;
     height: auto;
     margin: auto;
-    color: #fff;
+    color: whitesmoke;
     position: relative;
 
 }
